@@ -278,5 +278,5 @@ $ python3 unittest -m tests/test_console.py
 
 ## Authors :black_nib:
 
-- **Naheemah Bello** <[NaheemahBello](https://github.com/NaheemahBello)>
-- **Levi Eze** <[Leviking19](https://github.com/Leviking19)>
+zeddy cherotich <cheroozeddy@gmail.com>
+Oruche Ugochukwu <oruchechuks@gmail.com>
